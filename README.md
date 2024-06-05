@@ -23,7 +23,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 ![Estatísticas do GitHub de Leonardo Lucena](https://github-readme-stats.vercel.app/api?username=leorlucena&show_icons=true&theme=radical)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=leorlucena&layout=compact&theme=radical)
 
 ## 📂 Projetos Destacados
 
