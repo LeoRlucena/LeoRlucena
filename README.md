@@ -27,9 +27,9 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 ## 📂 Projetos Destacados
 
+- [**Xadrez Console**](https://github.com/LeoRlucena/xadrez-console): Game de xadrez feito em C# no console durante o curso C# Completo da Udemy.
 - [**Site Pessoal**](https://github.com/LeoRlucena/leorlucena.github.io): Esse projeto contém os arquivos programados e feitos para colocar em funcionamento o meu site, hospedado aqui mesmo pelo GitHub.
 - [**Controle de Estoque**](https://github.com/LeoRlucena/projeto_controle_de_estoque): Um simples sistema de estoque feito durante uma aula de Algoritmos da faculdade de Análise e Desenvolvimento de Sistemas.
-- [**Exercícios beecrowd**](https://github.com/LeoRlucena/beecrowd_exercicios): Exercícios feitos durante o curso de lógica de programação utilizando a linguagem C#.
 
 ## Conecte-se Comigo
 
