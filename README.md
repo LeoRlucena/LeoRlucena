@@ -7,7 +7,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 ## 🚀 Sobre Mim
 
-- 🌱 Atualmente estou aprendendo **C#, Python, MySQL, PostGre e Oracle**.
+- 🌱 Atualmente estou aprendendo **C#, Python, MySQL e Java**.
 - 👯 Estou procurando colaborar em **projetos ajudem com meu desenvolvimento**.
 - 💬 Pergunte-me sobre **tecnologias, música, games... amo conversar sobre esses assuntos**.
 - 📫 Como me encontrar: **[Acesse meu site!](https://leorlucena.github.io/)**.
@@ -15,8 +15,8 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Linguagens de Programação:** C#, Python, Javascript.
-- **Frameworks e Bibliotecas:** Ainda aprendendo!.
+- **Linguagens de Programação:** C#, Python, Java.
+- **Frameworks e Bibliotecas:** Ainda aprendendo!
 - **Ferramentas de Desenvolvimento:** VSCode, Visual Studio, MySQL Workbench.
 
 ## 📈 Estatísticas do GitHub
