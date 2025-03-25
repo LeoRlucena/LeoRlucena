@@ -15,7 +15,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Linguagens de Programação:** C#, Python, Java.
+- **Linguagens de Programação:** C#, Java.
 - **Frameworks e Bibliotecas:** Ainda aprendendo!
 - **Ferramentas de Desenvolvimento:** VSCode, Visual Studio, MySQL Workbench.
 
