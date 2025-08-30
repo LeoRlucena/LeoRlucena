@@ -15,8 +15,8 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Linguagens de Programação:** C#, Java.
-- **Frameworks e Bibliotecas:** Ainda aprendendo!
+- **Linguagens de Programação:** C#, Java, Javascript, Python.
+- **Frameworks e Bibliotecas:** .NET, .NET MAUI, Windows Forms, React!
 - **Ferramentas de Desenvolvimento:** VSCode, Visual Studio, MySQL Workbench.
 
 ## 📈 Estatísticas do GitHub
